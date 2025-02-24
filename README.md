@@ -45,5 +45,5 @@ Till part 3 is for every body
 * Seaborn
 * Scipy
 
-Part 4 is for data scientists and data analysts
+Part 4 is for data scientists and data analysts.
 
