@@ -47,3 +47,12 @@ Till part 3 is for every body
 
 Part 4 is for data scientists and data analysts.
 
+# life cycle of a data science project
+
+when you get your dataset, do the feature engineering part. first, go and handle the missing data. 
+
+for handling missing values, inbalanced datasets, you can search google, kaggle, or statistical learning courses.
+
+for doing this you have to be good at python in pandas, numpy, matplotlib and seaborn. 
+
+ask questions in your mind and answer them using python.
