@@ -56,3 +56,11 @@ for handling missing values, inbalanced datasets, you can search google, kaggle,
 for doing this you have to be good at python in pandas, numpy, matplotlib and seaborn. 
 
 ask questions in your mind and answer them using python.
+
+# creating the requirements file
+
+To create the requirement file of your project and knowing the version of libraries used in your projects and preventing any error in future uses, just run the folloing command in your terminal in your working directory:
+
+pip freeze >requirements.txt
+
+This will create a txt file including all the libraries used in your project.
